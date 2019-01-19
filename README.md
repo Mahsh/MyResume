@@ -1,4 +1,2 @@
 # MyResume
-Resume for Haishou Ma.
-
-Display a pdf file via a web page.
+[Ma's Resume.](https://mahsh.github.io/MyResume/MaHaishouResume.pdf)
